@@ -1,0 +1,102 @@
+body{
+  background-image:linear-gradient(#1f212e ,#11152c);
+}
+.container{
+  background-color: transparent;
+color: white;
+margin-top: 30px;
+margin-bottom: 50px;
+}
+.tab{
+  background-color: #252a41;
+
+}
+.social-network-tab{
+padding: 0 1px 30px 1px;
+text-align: center;
+margin: 15px 1px 1px 0;
+border-radius: 8px;
+
+}
+p{
+text-transform: capitalize;
+}
+.font-space{
+  letter-spacing: 3px;
+  color: #7b8394;
+  text-transform: uppercase;
+}
+h3{
+display: inline;
+font-size: .8rem;
+}
+h2{
+  display: block;
+  font-size: 3rem;
+  margin: 10px auto;
+}
+.up-icon{
+  display: inline;
+}
+.scn-per{
+  display: inline;
+}
+.fb-hr{
+  margin: 0;
+  padding-bottom: 10px;
+  border-color: #00bfff;
+  border-width: 4px;
+  border-radius: 5px;
+}
+.twitter-hr{
+  margin: 0;
+  padding-bottom: 10px;
+  border-color: #1ca0f2;
+  border-width: 4px;
+  border-radius: 5px;
+}
+.ig-hr{
+  margin: 0;
+  padding-bottom: 10px;
+  background-image: linear-gradient(to right , #fdc468, #df4996);
+  border-radius: 5px;
+  background-repeat: no-repeat;
+   background-size: 100% 40%;
+}
+.yt-hr{
+  margin: 0;
+  padding-bottom: 10px;
+  border-color: #c4032a;
+  border-width: 4px;
+  border-radius: 5px;
+}
+.scn-per{
+  color: #1eb589;
+}
+
+.overview-today-h2{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.pageview h3{
+  font-size: 2rem;
+display: block;
+}
+.pageview p{
+  display: inline;
+}
+.pageview-p{
+  color: #97a2ba;
+font-weight: bold;
+font-size: 0.7rem;
+}
+.pageview{
+  padding: 20px 5px 20px 5px;
+  border: 0.5px solid Green;
+}
+.pageview-percent{
+  color: #1eb589;
+}
+.pageview-percent-neg{
+  color: #dc414c;
+}
